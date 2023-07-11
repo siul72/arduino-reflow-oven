@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MSMF050")(type "KiCad")(uri "C:/Users/siul72/Documents/workspace/telluino-hb/telluino-hb-kicad/MF-MSMF050-2.kicad_sym")(options "")(descr ""))
+  (lib (name "SS1P3L")(type "KiCad")(uri "C:/Users/siul72/Documents/workspace/telluino-hb/telluino-hb-kicad/SS1P3L.kicad_sym")(options "")(descr ""))
+)
